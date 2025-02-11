@@ -7,37 +7,37 @@
 
 > D:\ISO
 >
-> │  grldr
+> ├─ grldr
 >
 > │
 >
-> └─boot
+> ├─ boot
 >
->  │  bcd
+>  ├─ bcd
 >
->  │  boot.sdi
+>  ├─ boot.sdi
 >
->  │  bootmgr
+>  ├─ bootmgr
 >
->  │  wimboot
+>  ├─ wimboot
 >
 >  │
 >
->  ├─grub
+>  ├─ grub
 >
->  │      menu.lst
+>  │      └─menu.lst
 >
 >  │
 >
 >  ├─w10pe32
 >
->  │      boot.wim
+>  │      └─boot.wim
 >
 >  │
 >
 >  └─w10pe64
 >
-> ​         boot.wim
+> ​         └─boot.wim
 >
 > 
 
